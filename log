@@ -1,0 +1,104 @@
+2022/11/16 15:18:35 Starting vital check
+2022/11/16 15:18:35 Opening the edge parent dir:  sqHome
+2022/11/16 15:18:35 Iterating over the edge dir
+2022/11/16 15:18:35 Opening the edge dir:  sqHome/edge1
+2022/11/16 15:18:35 Getting the last update time of edge folder sqHome
+2022/11/16 15:18:35 Running the following command:  ls -l sqHome| awk '{if (NR!=1 && NF) print $(NF-1),$NF}' | grep edge1
+2022/11/16 15:18:35 Iterating over the cameras dir
+2022/11/16 15:18:35 Checking the latest jpg in at the following path:  sqHome/edge1/c1/latest.jpg
+2022/11/16 15:18:35 Checking the resolution of latest.jpg
+2022/11/16 15:18:35 Running the following command:  file sqHome/edge1/c1/latest.jpg | grep -Eo '[[:digit:]]{2,4}+ *x *[[:digit:]]+'
+2022/11/16 15:18:35 ____________________________________________________________________________________________________________________
+2022/11/16 15:18:35 Iterating over the edge dir
+2022/11/16 15:18:35 Opening the edge dir:  sqHome/edge2
+2022/11/16 15:18:35 Getting the last update time of edge folder sqHome
+2022/11/16 15:18:35 Running the following command:  ls -l sqHome| awk '{if (NR!=1 && NF) print $(NF-1),$NF}' | grep edge2
+2022/11/16 15:18:36 Iterating over the cameras dir
+2022/11/16 15:18:36 Checking the latest jpg in at the following path:  sqHome/edge2/c2/latest.jpg
+2022/11/16 15:18:36 Checking the resolution of latest.jpg
+2022/11/16 15:18:36 Running the following command:  file sqHome/edge2/c2/latest.jpg | grep -Eo '[[:digit:]]{2,4}+ *x *[[:digit:]]+'
+2022/11/16 15:18:36 Checking the latest jpg in at the following path:  sqHome/edge2/c3/latest.jpg
+2022/11/16 15:18:36 Checking the resolution of latest.jpg
+2022/11/16 15:18:36 Running the following command:  file sqHome/edge2/c3/latest.jpg | grep -Eo '[[:digit:]]{2,4}+ *x *[[:digit:]]+'
+2022/11/16 15:18:36 ____________________________________________________________________________________________________________________
+2022/11/16 15:18:36 Marshalling the object to json string
+2022/11/16 15:18:36 Writing json data to 'stats.json'
+2022/11/16 15:18:36 
+2022/11/16 15:18:45 Starting vital check
+2022/11/16 15:18:45 Opening the edge parent dir:  sqHome
+2022/11/16 15:18:45 Iterating over the edge dir
+2022/11/16 15:18:45 Opening the edge dir:  sqHome/edge1
+2022/11/16 15:18:45 Getting the last update time of edge folder sqHome
+2022/11/16 15:18:45 Running the following command:  ls -l sqHome| awk '{if (NR!=1 && NF) print $(NF-1),$NF}' | grep edge1
+2022/11/16 15:18:45 Iterating over the cameras dir
+2022/11/16 15:18:45 Checking the latest jpg in at the following path:  sqHome/edge1/c1/latest.jpg
+2022/11/16 15:18:45 Checking the resolution of latest.jpg
+2022/11/16 15:18:45 Running the following command:  file sqHome/edge1/c1/latest.jpg | grep -Eo '[[:digit:]]{2,4}+ *x *[[:digit:]]+'
+2022/11/16 15:18:45 ____________________________________________________________________________________________________________________
+2022/11/16 15:18:45 Iterating over the edge dir
+2022/11/16 15:18:45 Opening the edge dir:  sqHome/edge2
+2022/11/16 15:18:45 Getting the last update time of edge folder sqHome
+2022/11/16 15:18:45 Running the following command:  ls -l sqHome| awk '{if (NR!=1 && NF) print $(NF-1),$NF}' | grep edge2
+2022/11/16 15:18:45 Iterating over the cameras dir
+2022/11/16 15:18:45 Checking the latest jpg in at the following path:  sqHome/edge2/c2/latest.jpg
+2022/11/16 15:18:45 Checking the resolution of latest.jpg
+2022/11/16 15:18:45 Running the following command:  file sqHome/edge2/c2/latest.jpg | grep -Eo '[[:digit:]]{2,4}+ *x *[[:digit:]]+'
+2022/11/16 15:18:45 Checking the latest jpg in at the following path:  sqHome/edge2/c3/latest.jpg
+2022/11/16 15:18:45 Checking the resolution of latest.jpg
+2022/11/16 15:18:45 Running the following command:  file sqHome/edge2/c3/latest.jpg | grep -Eo '[[:digit:]]{2,4}+ *x *[[:digit:]]+'
+2022/11/16 15:18:45 ____________________________________________________________________________________________________________________
+2022/11/16 15:18:45 Marshalling the object to json string
+2022/11/16 15:18:45 Writing json data to 'stats.json'
+2022/11/16 15:18:45 
+2022/11/16 15:20:35 Starting vital check
+2022/11/16 15:20:35 Opening the edge parent dir:  sqHome
+2022/11/16 15:20:35 Iterating over the edge dir
+2022/11/16 15:20:35 Opening the edge dir:  sqHome/edge1
+2022/11/16 15:20:35 Getting the last update time of edge folder sqHome
+2022/11/16 15:20:35 Running the following command:  ls -l sqHome| awk '{if (NR!=1 && NF) print $(NF-1),$NF}' | grep edge1
+2022/11/16 15:20:35 Iterating over the cameras dir
+2022/11/16 15:20:35 Checking the latest jpg in at the following path:  sqHome/edge1/c1/latest.jpg
+2022/11/16 15:20:35 Checking the resolution of latest.jpg
+2022/11/16 15:20:35 Running the following command:  file sqHome/edge1/c1/latest.jpg | grep -Eo '[[:digit:]]{2,4}+ *x *[[:digit:]]+'
+2022/11/16 15:20:35 ____________________________________________________________________________________________________________________
+2022/11/16 15:20:35 Iterating over the edge dir
+2022/11/16 15:20:35 Opening the edge dir:  sqHome/edge2
+2022/11/16 15:20:35 Getting the last update time of edge folder sqHome
+2022/11/16 15:20:35 Running the following command:  ls -l sqHome| awk '{if (NR!=1 && NF) print $(NF-1),$NF}' | grep edge2
+2022/11/16 15:20:35 Iterating over the cameras dir
+2022/11/16 15:20:35 Checking the latest jpg in at the following path:  sqHome/edge2/c2/latest.jpg
+2022/11/16 15:20:35 Checking the resolution of latest.jpg
+2022/11/16 15:20:35 Running the following command:  file sqHome/edge2/c2/latest.jpg | grep -Eo '[[:digit:]]{2,4}+ *x *[[:digit:]]+'
+2022/11/16 15:20:35 Checking the latest jpg in at the following path:  sqHome/edge2/c3/latest.jpg
+2022/11/16 15:20:35 Checking the resolution of latest.jpg
+2022/11/16 15:20:35 Running the following command:  file sqHome/edge2/c3/latest.jpg | grep -Eo '[[:digit:]]{2,4}+ *x *[[:digit:]]+'
+2022/11/16 15:20:35 ____________________________________________________________________________________________________________________
+2022/11/16 15:20:35 Marshalling the object to json string
+2022/11/16 15:20:35 Writing json data to 'stats.json'
+2022/11/16 15:20:35 
+2022/11/17 12:45:52 Starting vital check
+2022/11/17 12:45:52 Opening the edge parent dir:  sqHome
+2022/11/17 12:45:52 Iterating over the edge dir
+2022/11/17 12:45:52 Opening the edge dir:  sqHome/edge1
+2022/11/17 12:45:52 Getting the last update time of edge folder sqHome
+2022/11/17 12:45:52 Running the following command:  ls -l sqHome| awk '{if (NR!=1 && NF) print $(NF-1),$NF}' | grep edge1
+2022/11/17 12:45:52 Iterating over the cameras dir
+2022/11/17 12:45:52 Checking the latest jpg in at the following path:  sqHome/edge1/c1/latest.jpg
+2022/11/17 12:45:52 Checking the resolution of latest.jpg
+2022/11/17 12:45:52 Running the following command:  file sqHome/edge1/c1/latest.jpg | grep -Eo '[[:digit:]]{2,4}+ *x *[[:digit:]]+'
+2022/11/17 12:45:52 ____________________________________________________________________________________________________________________
+2022/11/17 12:45:52 Iterating over the edge dir
+2022/11/17 12:45:52 Opening the edge dir:  sqHome/edge2
+2022/11/17 12:45:52 Getting the last update time of edge folder sqHome
+2022/11/17 12:45:52 Running the following command:  ls -l sqHome| awk '{if (NR!=1 && NF) print $(NF-1),$NF}' | grep edge2
+2022/11/17 12:45:52 Iterating over the cameras dir
+2022/11/17 12:45:52 Checking the latest jpg in at the following path:  sqHome/edge2/c2/latest.jpg
+2022/11/17 12:45:52 Checking the resolution of latest.jpg
+2022/11/17 12:45:52 Running the following command:  file sqHome/edge2/c2/latest.jpg | grep -Eo '[[:digit:]]{2,4}+ *x *[[:digit:]]+'
+2022/11/17 12:45:52 Checking the latest jpg in at the following path:  sqHome/edge2/c3/latest.jpg
+2022/11/17 12:45:52 Checking the resolution of latest.jpg
+2022/11/17 12:45:52 Running the following command:  file sqHome/edge2/c3/latest.jpg | grep -Eo '[[:digit:]]{2,4}+ *x *[[:digit:]]+'
+2022/11/17 12:45:53 ____________________________________________________________________________________________________________________
+2022/11/17 12:45:53 Marshalling the object to json string
+2022/11/17 12:45:53 Writing json data to 'stats.json'
+2022/11/17 12:45:53 

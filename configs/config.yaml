@@ -1,0 +1,4 @@
+EdgesParent: "sqHome"
+LatestImg: "/latest.jpg"
+LogFile: "log"
+StatFile: "/stats.json"

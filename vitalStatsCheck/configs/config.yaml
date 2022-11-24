@@ -1,0 +1,4 @@
+EdgesParent: "/home/nvidia/sq_home_edge01"
+LatestImg: "/latest.jpg"
+LogFile: "/home/nvidia/vitalStatsCheck/log"
+StatFile: "/home/nvidia/vitalStatsCheck/stats.json"
